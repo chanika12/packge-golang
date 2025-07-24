@@ -6,5 +6,3 @@ import "strings"
 func ToUpperCase(s string) string {
 	return strings.ToUpper(s)
 }
-
-// ToLowerCase แปลงข้อความให้เป็นตัวพิมพ์เล็ก
