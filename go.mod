@@ -1,3 +1,3 @@
-module github.com/username/myawesomepkg
+module github.com/chanika12/packge-golang
 
-go 1.22.3
+go 1.24.4
