@@ -1,4 +1,4 @@
-package packge_golang_
+package packge_golang
 
 import "strings"
 
